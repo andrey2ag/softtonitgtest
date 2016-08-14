@@ -1,0 +1,6 @@
+framework module Pods_andrey {
+  umbrella header "Pods-andrey-umbrella.h"
+
+  export *
+  module * { export * }
+}

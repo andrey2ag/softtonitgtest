@@ -1,0 +1,20 @@
+PODS:
+  - HCSStarRatingView (1.4.5)
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - SkyFloatingLabelTextField (1.2.1)
+
+DEPENDENCIES:
+  - HCSStarRatingView (~> 1.4.5)
+  - MagicalRecord
+  - SkyFloatingLabelTextField (~> 1.0)
+
+SPEC CHECKSUMS:
+  HCSStarRatingView: bff3f89314d3b5013ce826ea11897d3129ff6b8c
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  SkyFloatingLabelTextField: 3f6610aded18e778df5cfab3b9e12a11b3e014e9
+
+PODFILE CHECKSUM: b71a4e80129f1d7597fe15c6949b9a7db2a41a42
+
+COCOAPODS: 1.0.1
