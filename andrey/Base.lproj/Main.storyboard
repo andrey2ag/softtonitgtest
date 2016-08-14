@@ -402,10 +402,10 @@
                         </subviews>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="zlr-oU-jHT" firstAttribute="top" secondItem="zMB-gr-AwE" secondAttribute="bottom" constant="20" id="1aK-Zh-4sI"/>
+                            <constraint firstItem="zlr-oU-jHT" firstAttribute="top" secondItem="zMB-gr-AwE" secondAttribute="bottom" id="1aK-Zh-4sI"/>
                             <constraint firstItem="sLZ-MH-Eum" firstAttribute="top" secondItem="zlr-oU-jHT" secondAttribute="bottom" constant="20" id="Cuw-lc-ajh"/>
-                            <constraint firstItem="zlr-oU-jHT" firstAttribute="leading" secondItem="S8P-wK-jZJ" secondAttribute="leadingMargin" constant="20" id="D8h-3w-tfQ"/>
-                            <constraint firstAttribute="trailingMargin" secondItem="zlr-oU-jHT" secondAttribute="trailing" constant="20" id="i2J-2Q-dX3"/>
+                            <constraint firstItem="zlr-oU-jHT" firstAttribute="leading" secondItem="S8P-wK-jZJ" secondAttribute="leadingMargin" id="D8h-3w-tfQ"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="zlr-oU-jHT" secondAttribute="trailing" id="i2J-2Q-dX3"/>
                         </constraints>
                     </view>
                     <connections>
